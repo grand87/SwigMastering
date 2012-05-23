@@ -1,0 +1,7 @@
+namespace Demo
+{
+    class Data
+    {
+    
+    };
+}
